@@ -47,7 +47,7 @@ Experience:
 
 Skills:
 ----------------
-#### Computer Skills | Microsoft Office | Canva | Python | Coding | Presentation | Writing |CommunicationSkills |Problem Solving Skill |Interpersonal Skills |Leadership Skills
+#### Computer Skills | Microsoft Office | Canva | Python | Coding | Presentation | Writing | CommunicationSkills | Problem Solving Skill | Interpersonal Skills | Leadership Skills
 
 Language:
 ----------------
